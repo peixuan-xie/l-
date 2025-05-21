@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>我的個人頁面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        img {
+            width: 200px;
+            height: auto;
+            border-radius: 100px;
+            border: 2px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>你好，我是 peixuan</h1>
+    <p>歡迎來到我的個人網頁！</p>
+
+    <!-- 放置你的個人照 -->
+    <img src="myphoto.jpg" alt="我的個人照">
+
+</body>
+</html>
